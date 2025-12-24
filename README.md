@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Jean Paul Lopez
 
-### 🚀 Platform Engineer | Cloud Native | MCP Servers | OpenShift & Kubernetes
+### 🚀 Consultant | Cloud Native | MCP Servers | OpenShift & Kubernetes
 
 <p>
   <a href="https://blog.labjp.xyz"><img src="https://img.shields.io/badge/Blog-blog.labjp.xyz-22c55e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔴 **Senior Consultant** at **Red Hat**
+- 🔴 **Consultant** at **Red Hat**
 - ☸️ Specialized in **Kubernetes**, **OpenShift** & **GitOps**
 - 🤖 Building **MCP Servers** for AI-powered infrastructure management
 - 🌎 Based in **LATAM**
