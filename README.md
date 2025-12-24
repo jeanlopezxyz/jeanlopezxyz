@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Jean+Paul+Lopez;Consultant+%40+Red+Hat;Cloud+Native+Enthusiast;Building+MCP+Servers+for+AI)](https://github.com/jeanlopezxyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Jean+Paul+Lopez;Consultant+%40+Red+Hat;Cloud+Native+Enthusiast;Building+MCP+Servers+for+AI)](https://github.com/jeanlopezxyz)
 
 <!-- Badges -->
 <p>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Jean Paul Lopez
@@ -33,7 +33,7 @@ currently_learning: eBPF, AI/ML for Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,11 +64,11 @@ currently_learning: eBPF, AI/ML for Infrastructure
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🤖 MCP Servers (Model Context Protocol)
+### MCP Servers (Model Context Protocol)
 *AI-powered infrastructure management*
 
 [![mcp-prometheus](https://github-readme-stats.vercel.app/api/pin/?username=jeanlopezxyz&repo=mcp-prometheus&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)](https://github.com/jeanlopezxyz/mcp-prometheus)
@@ -80,7 +80,7 @@ currently_learning: eBPF, AI/ML for Infrastructure
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -89,14 +89,14 @@ currently_learning: eBPF, AI/ML for Infrastructure
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlopezxyz&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
-### 🏆 Trophies
+### Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=jeanlopezxyz&theme=darkhub&no-frame=true&column=7&margin-w=15" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanlopezxyz&theme=github-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff" width="100%"/>
 
@@ -104,11 +104,10 @@ currently_learning: eBPF, AI/ML for Infrastructure
 
 <div align="center">
 
-### 💬 Let's Connect!
+### Let's Connect
 
 <a href="mailto:contact@labjp.xyz"><img src="https://img.shields.io/badge/Email-contact%40labjp.xyz-22c55e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-*Building the future of infrastructure, one commit at a time* 🚀
+*Building the future of infrastructure, one commit at a time*
 
 </div>
-
