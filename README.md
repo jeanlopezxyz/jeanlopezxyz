@@ -10,6 +10,6 @@
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake.gif)
 
 </div>
