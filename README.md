@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm Jean Paul Lopez
 
-### 🚀 Platform Engineer | Cloud Native Enthusiast | AI/ML Explorer
+### 🚀 Platform Engineer | Cloud Native | MCP Servers | OpenShift & Kubernetes
 
 <p>
-  <a href="https://labjp.xyz"><img src="https://img.shields.io/badge/Blog-labjp.xyz-blue?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://blog.labjp.xyz"><img src="https://img.shields.io/badge/Blog-blog.labjp.xyz-22c55e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jeanlopezxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jeanlopezxyz"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔴 **Senior Consultant** at Red Hat
+- 🔴 **Senior Consultant** at **Red Hat**
 - ☸️ Specialized in **Kubernetes**, **OpenShift** & **GitOps**
 - 🤖 Building **MCP Servers** for AI-powered infrastructure management
 - 🌎 Based in **LATAM**
@@ -44,13 +44,19 @@
 
 ## 🔥 Featured Projects
 
+### MCP Servers (Model Context Protocol)
 | Project | Description |
 |---------|-------------|
-| 🤖 [mcp-prometheus](https://github.com/jeanlopezxyz/mcp-prometheus) | MCP Server for Prometheus - Execute PromQL queries through AI |
-| 🔔 [mcp-alertmanager](https://github.com/jeanlopezxyz/mcp-alertmanager) | MCP Server for Alertmanager - Manage alerts via AI assistants |
-| 📚 [mcp-redhat-kb](https://github.com/jeanlopezxyz/mcp-redhat-kb) | MCP Server for Red Hat Knowledge Base |
-| 🎤 [mcp-sessionize](https://github.com/jeanlopezxyz/mcp-sessionize) | MCP Server for Sessionize event data |
+| 🤖 [mcp-prometheus](https://github.com/jeanlopezxyz/mcp-prometheus) | Execute PromQL queries through AI assistants |
+| 🔔 [mcp-alertmanager](https://github.com/jeanlopezxyz/mcp-alertmanager) | Manage alerts and silences via AI |
+| 📚 [mcp-redhat-kb](https://github.com/jeanlopezxyz/mcp-redhat-kb) | Search Red Hat Knowledge Base with AI |
+| 🎤 [mcp-sessionize](https://github.com/jeanlopezxyz/mcp-sessionize) | Query Sessionize event data |
+
+### Infrastructure & GitOps
+| Project | Description |
+|---------|-------------|
 | ☸️ [openshift-clusterconfig-gitops](https://github.com/jeanlopezxyz/openshift-clusterconfig-gitops) | OpenShift Cluster GitOps Bootstrap |
+| 🔧 [infra.aap_configuration](https://github.com/jeanlopezxyz/infra.aap_configuration) | Ansible Automation Platform config as code |
 
 ---
 
@@ -58,8 +64,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeanlopezxyz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlopezxyz&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeanlopezxyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlopezxyz&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="165" />
 
 </div>
 
