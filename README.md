@@ -1,25 +1,39 @@
 <div align="center">
 
-# 👋 Hey, I'm Jean Paul Lopez
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Jean+Paul+Lopez;Consultant+%40+Red+Hat;Cloud+Native+Enthusiast;Building+MCP+Servers+for+AI)](https://github.com/jeanlopezxyz)
 
-### 🚀 Consultant | Cloud Native | MCP Servers | OpenShift & Kubernetes
-
+<!-- Badges -->
 <p>
   <a href="https://blog.labjp.xyz"><img src="https://img.shields.io/badge/Blog-blog.labjp.xyz-22c55e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jeanlopezxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jeanlopezxyz"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jeanlopezxyz&style=for-the-badge&color=22c55e" alt="Profile Views" />
 </p>
 
 </div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔴 **Consultant** at **Red Hat**
-- ☸️ Specialized in **Kubernetes**, **OpenShift** & **GitOps**
-- 🤖 Building **MCP Servers** for AI-powered infrastructure management
-- 🌎 Based in **LATAM**
+```yaml
+name: Jean Paul Lopez
+role: Consultant @ Red Hat
+location: LATAM
+focus:
+  - Kubernetes & OpenShift
+  - GitOps & Infrastructure as Code
+  - MCP Servers for AI
+  - Cloud Native Technologies
+currently_learning: eBPF, AI/ML for Infrastructure
+```
 
 ---
 
@@ -27,16 +41,28 @@
 
 <div align="center">
 
+### Cloud & Containers
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### GitOps & Automation
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -44,19 +70,17 @@
 
 ## 🔥 Featured Projects
 
-### MCP Servers (Model Context Protocol)
-| Project | Description |
-|---------|-------------|
-| 🤖 [mcp-prometheus](https://github.com/jeanlopezxyz/mcp-prometheus) | Execute PromQL queries through AI assistants |
-| 🔔 [mcp-alertmanager](https://github.com/jeanlopezxyz/mcp-alertmanager) | Manage alerts and silences via AI |
-| 📚 [mcp-redhat-kb](https://github.com/jeanlopezxyz/mcp-redhat-kb) | Search Red Hat Knowledge Base with AI |
-| 🎤 [mcp-sessionize](https://github.com/jeanlopezxyz/mcp-sessionize) | Query Sessionize event data |
+<div align="center">
 
-### Infrastructure & GitOps
-| Project | Description |
-|---------|-------------|
-| ☸️ [openshift-clusterconfig-gitops](https://github.com/jeanlopezxyz/openshift-clusterconfig-gitops) | OpenShift Cluster GitOps Bootstrap |
-| 🔧 [infra.aap_configuration](https://github.com/jeanlopezxyz/infra.aap_configuration) | Ansible Automation Platform config as code |
+### 🤖 MCP Servers (Model Context Protocol)
+*AI-powered infrastructure management*
+
+[![mcp-prometheus](https://github-readme-stats.vercel.app/api/pin/?username=jeanlopezxyz&repo=mcp-prometheus&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)](https://github.com/jeanlopezxyz/mcp-prometheus)
+[![mcp-alertmanager](https://github-readme-stats.vercel.app/api/pin/?username=jeanlopezxyz&repo=mcp-alertmanager&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)](https://github.com/jeanlopezxyz/mcp-alertmanager)
+[![mcp-sessionize](https://github-readme-stats.vercel.app/api/pin/?username=jeanlopezxyz&repo=mcp-sessionize&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)](https://github.com/jeanlopezxyz/mcp-sessionize)
+[![mcp-redhat-kb](https://github-readme-stats.vercel.app/api/pin/?username=jeanlopezxyz&repo=mcp-redhat-kb&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)](https://github.com/jeanlopezxyz/mcp-redhat-kb)
+
+</div>
 
 ---
 
@@ -64,16 +88,29 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeanlopezxyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlopezxyz&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeanlopezxyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlopezxyz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanlopezxyz&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=jeanlopezxyz&theme=darkhub&no-frame=true&column=7&margin-w=15" />
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanlopezxyz&theme=github-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff" width="100%"/>
 
 ---
 
 <div align="center">
 
 ### 💬 Let's Connect!
+
+<a href="mailto:contact@labjp.xyz"><img src="https://img.shields.io/badge/Email-contact%40labjp.xyz-22c55e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 *Building the future of infrastructure, one commit at a time* 🚀
 
