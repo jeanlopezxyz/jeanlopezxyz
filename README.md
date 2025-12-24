@@ -13,9 +13,7 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/jeanlopezxyz/jeanlopezxyz/output/github-snake-dark.svg)
 
 ---
 
