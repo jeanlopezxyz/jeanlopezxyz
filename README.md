@@ -6,8 +6,7 @@
 
 <p>
   <a href="https://blog.labjp.xyz"><img src="https://img.shields.io/badge/Blog-blog.labjp.xyz-22c55e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jeanlopezxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jeanlopezxyz&style=for-the-badge&color=22c55e" alt="Profile Views" />
+  <a href="https://linkedin.com/in/jeanlopez"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 </div>
