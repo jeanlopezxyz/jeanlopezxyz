@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Jean+Paul+Lopez;Consultant+%40+Red+Hat;Cloud+Native+Enthusiast;Building+MCP+Servers+for+AI)](https://github.com/jeanlopezxyz)
+# Jean Paul Lopez
+**@labjp.xyz**
 
-<!-- Badges -->
+
 <p>
   <a href="https://blog.labjp.xyz"><img src="https://img.shields.io/badge/Blog-blog.labjp.xyz-22c55e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jeanlopezxyz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
